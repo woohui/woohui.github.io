@@ -8,7 +8,7 @@ layout: page
 <img src="./images/Life_Photo.JPG" class="floatpic">
 
 
-Here is **Hui Wu (吴惠)**.<br>
+Here is **Hui Wu**.<br>
 
 I am a PhD student at the College of Economics and Management, Huazhong Agricultural University. Previously, I worked at Guangdong University of Science and Technology.
 
