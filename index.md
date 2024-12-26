@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/life_img_1.jpg" class="floatpic">
+<img src="./images/life_img_1.jpg" class="floatpic">
 
 Here is **Hui Wu (吴惠)**.<br>
 
