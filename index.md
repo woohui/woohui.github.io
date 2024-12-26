@@ -8,8 +8,7 @@ layout: page
 
 Here is **Hui Wu (吴惠)**.<br>
 
-I am a PhD student in the College of Economics and Management, Huazhong Agricultural University, advised by [Prof. Xianpei Hong](). Prior to Huazhong Agricultural University,  I have worked on Guangdong University of Science and Technology.<br>
-
+I am a PhD student at the College of Economics and Management, Huazhong Agricultural University. Previously, I worked at Guangdong University of Science and Technology.
 
 ---
 
