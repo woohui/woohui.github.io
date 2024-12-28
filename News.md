@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /news/index.html
+permalink: /News/index.html
 title: News
 ---
 ## News
