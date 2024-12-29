@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2024
 
-- [22岁，站在人生的交叉路口](https://caihanlin.com/blogs/22yrs)
+- [建站完全指南](./blogs/web)
 
 
 
