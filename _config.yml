@@ -38,8 +38,6 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: News
-    url: /News/
 # - title: Hobbies
 #  url: /hobbies/
  # - title: Startups
@@ -81,5 +79,3 @@ kramdown:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-# Latest update in 2023/12/10 by Hanlin Cai.
