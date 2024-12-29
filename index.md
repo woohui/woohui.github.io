@@ -33,5 +33,3 @@ My current research focuses on the practical challenges that **game theory** enc
 - Dec 21, 2024: Submit the paper to another marketing journal <img src="./images/emoji/sile.png">. Kindly consider it favorably.
 
 <br>
-
-{% include disqus.html %} 
