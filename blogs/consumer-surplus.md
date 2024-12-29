@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/consumer-surplus
-title: web
+title:  消费者剩余的刻画
 ---
 
 # 关于消费者剩余的刻画
