@@ -31,3 +31,7 @@ My current research focuses on the practical challenges that **game theory** enc
 - Dec 19, 2024：The first paper of my doctoral phase has been completed and submitted for publication <img src="./images/emoji/touxiao.png">.
 - **Dec 20, 2024**：Desk Rejected by AE <img src="./images/emoji/kujiji.png">.
 - Dec 21, 2024: Submit the paper to another marketing journal <img src="./images/emoji/sile.png">. Kindly consider it favorably.
+
+<br>
+
+{% include disqus.html %} 
