@@ -14,10 +14,11 @@ $$q = n \int_{(\alpha p - \beta e)}^{w_H} f(w) \, dw = n \frac{w_H - \alpha p - 
 转换为 
 $$p = \frac{w_H}{\alpha} - \frac{w_H}{n \alpha} q + \frac{\beta}{\alpha} e$$
 
-将上述系数 $\{\frac{w_H}{\alpha}, -\frac{w_H}{n\alpha}, \frac{\beta}{\alpha}\}$ 改写为 $\{a, -1, b\}$，即 $\frac{w_H}{\alpha} = a, -\frac{w_H}{n\alpha} = -b, \frac{\beta}{\alpha} = c$，得到
+将上述系数 $\{\frac{w_H}{\alpha}, -\frac{w_H}{n\alpha}, \frac{\beta}{\alpha}\}$ 改写为 $\{a, -b, c\}$，即 $\frac{w_H}{\alpha} = a, -\frac{w_H}{n\alpha} = -b, \frac{\beta}{\alpha} = c$，得到
 $$p = a - bq + c(e + \mu)$$
 
-消费者剩余为 
+消费者剩余为
+
 $$CS = \int_0^{w_H} \max \{u_i, 0\} f(w) \, dw = \int_{(\alpha p - \beta e)}^{w_H} (w - \alpha p + \beta e) f(w)  dw$$ 
 
 化简为
