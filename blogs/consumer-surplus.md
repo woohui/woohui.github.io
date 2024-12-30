@@ -9,6 +9,7 @@ title:  消费者剩余的刻画
 <br>![Economic-surpluses.svg](consumer-surplus.assets/Economic-surpluses.svg)
 
 ## 关于消费者剩余的刻画
+
 假设消费者数量为 $n$。消费者 $u_i = w_i - \alpha p + \beta e$，其中 $p$ 为价格， $e$ 为商品的绿色度，且 $w_i \sim U[0, w_H]$。对于消费者 $i$ 而言，当 $u_i > 0$ 时，会购买。即 $w_i > \alpha p - \beta e$，那么需求函数为 
 $$q = n \int_{(\alpha p - \beta e)}^{w_H} f(w) \, dw = n \frac{w_H - \alpha p - \beta e}{w_H}$$ 
 转换为 
