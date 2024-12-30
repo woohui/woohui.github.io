@@ -24,7 +24,8 @@ $$p = a - bq + c(e + \mu)$$
 
 故消费者剩余可表示为
 
-$$CS = \int_0^{w_H} \max \{u_i, 0\} f(w) \, dw = \int_{(\alpha p - \beta e)}^{w_H} (w - \alpha p + \beta e) f(w)  dw$$ 
+$$CS = \int_0^{w_H} \max \{u_i, 0\} f(w) \, dw $$
+$$= \int_{(\alpha p - \beta e)}^{w_H} (w - \alpha p + \beta e) f(w)  dw$$ 
 
 化简为
 
