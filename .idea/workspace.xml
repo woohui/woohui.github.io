@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="publications Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/scripts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/scripts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogs/consumer-surplus.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/consumer-surplus.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,6 +13,15 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="57185ec1-b482-4856-8154-ba4268eafa8d" />
+        <option name="url" value="https://github.com/woohui/woohui.github.io.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,21 +79,9 @@
       <workItem from="1735438575469" duration="689000" />
       <workItem from="1735466601116" duration="2692000" />
       <workItem from="1735482816742" duration="3243000" />
-      <workItem from="1735486082446" duration="955000" />
-    </task>
-    <task id="LOCAL-00012" summary="Changes">
-      <created>1735223638561</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1735223638561</updated>
-    </task>
-    <task id="LOCAL-00013" summary="footer img Changes">
-      <created>1735265228980</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1735265228980</updated>
+      <workItem from="1735486082446" duration="1120000" />
+      <workItem from="1735487490485" duration="171000" />
+      <workItem from="1735524967133" duration="1235000" />
     </task>
     <task id="LOCAL-00014" summary="fonts Changes">
       <created>1735268660124</created>
@@ -413,7 +412,21 @@
       <option name="project" value="LOCAL" />
       <updated>1735486729304</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="publications Changes">
+      <created>1735487042170</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1735487042170</updated>
+    </task>
+    <task id="LOCAL-00062" summary="publications Changes">
+      <created>1735487191084</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1735487191084</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

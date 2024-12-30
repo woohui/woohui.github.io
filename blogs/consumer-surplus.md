@@ -18,7 +18,24 @@ $$p = \frac{w_H}{\alpha} - \frac{w_H}{n \alpha} q + \frac{\beta}{\alpha} e$$
 $$p = a - bq + c(e + \mu)$$
 
 消费者剩余为 
-$CS = \int_0^{w_H} \max \{u_i, 0\} f(w) \, dw = \int_{(\alpha p - \beta e)}^{w_H} (w - \alpha p + \beta e) f(w)  dw$ 
+$$CS = \int_0^{w_H} \max \{u_i, 0\} f(w) \, dw = \int_{(\alpha p - \beta e)}^{w_H} (w - \alpha p + \beta e) f(w)  dw$$ 
+
 化简为
-$CS = \frac{(w_H - \alpha p - \beta e)(w_H - \alpha p + 3 \beta e)}{2 w_H} = \frac{(\frac{w_H}{\alpha} - p - \frac{\beta e}{\alpha})(\frac{w_H}{\alpha} - p + \frac{3 \beta e}{\alpha})}{\frac{2 w_H}{\alpha}} = \frac{(a - p - ce)(a - p + 3ce)}{2a}$
+
+$$CS = \frac{(w_H - \alpha p - \beta e)(w_H - \alpha p + 3 \beta e)}{2 w_H} = \frac{(\frac{w_H}{\alpha} - p - \frac{\beta e}{\alpha})(\frac{w_H}{\alpha} - p + \frac{3 \beta e}{\alpha})}{\frac{2 w_H}{\alpha}} = \frac{(a - p - ce)(a - p + 3ce)}{2a}$$
+
 证明完毕。
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({tex2jax: {
+             inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+             processEscapes: true
+           }
+         });
+</script>
+
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
+</script>
