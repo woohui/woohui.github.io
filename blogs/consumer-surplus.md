@@ -24,7 +24,9 @@ $$CS = \int_0^{w_H} \max \{u_i, 0\} f(w) \, dw = \int_{(\alpha p - \beta e)}^{w_
 
 化简为
 
-$$CS = \frac{(w_H - \alpha p - \beta e)(w_H - \alpha p + 3 \beta e)}{2 w_H} = \frac{(\frac{w_H}{\alpha} - p - \frac{\beta e}{\alpha})(\frac{w_H}{\alpha} - p + \frac{3 \beta e}{\alpha})}{\frac{2 w_H}{\alpha}} = \frac{(a - p - ce)(a - p + 3ce)}{2a}$$
+$$CS = \frac{(w_H - \alpha p - \beta e)(w_H - \alpha p + 3 \beta e)}{2 w_H} $$
+分母分母同时除以 $\alpha$，即可求得：
+ $$CS=\frac{(a - p - ce)(a - p + 3ce)}{2a}$$
 
 证明完毕。
 
