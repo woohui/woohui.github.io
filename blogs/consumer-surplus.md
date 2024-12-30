@@ -50,7 +50,7 @@ $$CS = \frac{(w_H - \alpha p - \beta e)(w_H - \alpha p + 3 \beta e)}{2 w_H} $$
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({tex2jax: {
              inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-             processEscapes: true
+             processEscapes: false
            }
          });
 </script>
