@@ -31,7 +31,7 @@ $$CS = \frac{(w_H - \alpha p - \beta e)(w_H - \alpha p + 3 \beta e)}{2 w_H} $$
 证明完毕。
 
 > 如有错误请与我联系。
-> 
+
 <script type="text/x-mathjax-config">
     MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } });
 </script>

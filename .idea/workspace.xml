@@ -79,28 +79,7 @@
       <workItem from="1735482816742" duration="3243000" />
       <workItem from="1735486082446" duration="1120000" />
       <workItem from="1735487490485" duration="171000" />
-      <workItem from="1735524967133" duration="2584000" />
-    </task>
-    <task id="LOCAL-00022" summary="footer Changes">
-      <created>1735269945431</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1735269945431</updated>
-    </task>
-    <task id="LOCAL-00023" summary="publications Changes">
-      <created>1735271620886</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1735271620886</updated>
-    </task>
-    <task id="LOCAL-00024" summary="publications Changes">
-      <created>1735272061037</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1735272061037</updated>
+      <workItem from="1735524967133" duration="2896000" />
     </task>
     <task id="LOCAL-00025" summary="publications Changes">
       <created>1735272205425</created>
@@ -424,7 +403,28 @@
       <option name="project" value="LOCAL" />
       <updated>1735527365327</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="publications Changes">
+      <created>1735527559424</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1735527559424</updated>
+    </task>
+    <task id="LOCAL-00072" summary="publications Changes">
+      <created>1735527638375</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1735527638375</updated>
+    </task>
+    <task id="LOCAL-00073" summary="publications Changes">
+      <created>1735527828485</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1735527828485</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
