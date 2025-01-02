@@ -13,6 +13,7 @@ title: Publications
 - Cao, X., **Wu, H.**, Wen, H., & Chen, K. (2020). [Decision-making of closed-loop supply chain strategic alliance considering the quality level of remanufactured products and patent protection](https://www.worldscientific.com/doi/abs/10.1142/S0217595920500219). Asia-Pacific Journal of Operational Research, 37(05), 2050021.
 
   <br>
-
 ---
 
+## Books
+- 
