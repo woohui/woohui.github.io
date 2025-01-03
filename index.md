@@ -5,8 +5,7 @@ layout: page
 # About Me
 
 
-<img src="./images/Life_Photo.JPG" class="floatpic">
-
+<!-- <img src="./images/Life_Photo.JPG" class="floatpic"> -->
 
 Here is **Hui Wu**.<br>
 
