@@ -4,11 +4,11 @@ permalink: /blogs/consumer-surplus
 title:  消费者剩余的刻画
 ---
 
-# 关于消费者剩余的刻画
+## 关于消费者剩余的刻画
 > 有时需要刻画一些新策略对消费者剩余 (consumer-surplus, CS) 的影响，如产品的绿色程度、相应企业的社会责任等。传统经济学中关于 CS 的刻画主要是产品价格。
 <br>![Economic-surpluses.svg](consumer-surplus.assets/Economic-surpluses.svg)
 
-## 关于消费者剩余的刻画
+### 从源头开始
 
 假设消费者数量为 $n$。消费者 $u_i = w_i - \alpha p + \beta e$，其中 $p$ 为价格， $e$ 为商品的绿色度，且 $w_i \sim U[0, w_H]$.
 
