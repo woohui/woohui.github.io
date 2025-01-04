@@ -1,5 +1,4 @@
 <div class="countdown">
-    <h1>Countdown to June 30, 2027</h1>
     <p id="timer">Loading...</p>
 </div>
 
@@ -21,8 +20,7 @@
             const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
             const seconds = Math.floor((diff % (1000 * 60)) / 1000);
 
-            document.getElementById('timer').textContent =
-                `${days} days, ${hours} hours, ${minutes} minutes, ${seconds} seconds`;
+            document.getElementById('timer').textContent = `Victory is just ahead, ${days} days to go.`;
         }
 
         const intervalId = setInterval(updateCountdown, 1000);
