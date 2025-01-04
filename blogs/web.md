@@ -6,7 +6,7 @@ title: web
 
 ## 建站完全指南
 
-> Philosophy：极简、高效、免费
+> 转载自[HANLIN CAI](https://caihanlin.com/blogs/web/)
 
 <center>
 <img src = "/blogs/web.assets/github-logo.png">
@@ -162,18 +162,6 @@ links:
 
 <br>神奇的链接，联系了你和我，让我们相遇在这个博客。当你看到这些文字时，你正在和过去的我进行深度的交流。我很高兴你愿意仔细阅读我的文字，如果你想认识我，欢迎加入我们的Jekyll运营社群，让我们在**三次元**进一步`connect each other`吧！
 
-<br>
-
-![wechat](web.assets/wechat.PNG)
-
-> **Update in July 2023**
->
-> 最后一次更新二维码，如过期，请直接添加微信：**lancecai2002**
->
-> 有问题请在交流群中直接提问，谢绝私信答疑，感激不尽！
->
-> 知乎付费咨询通道：[请点击此处](https://www.zhihu.com/consult/people/1135256969806925824)
-
 <br>回到正题，上面说到，图片媒体的配置，可以通过“相对地址”（亦可以使用绝对地址）
 
 <br>而这里的文件配置链接，**则必须使用“绝对地址”。**
@@ -213,6 +201,10 @@ links:
 <br>完成这项小挑战后，可以和笔者取得联系，在线聊天15分钟，让我们通过互联网进一步`connect the world`吧！
 
 > 欢迎你把答案发送到本邮箱：lancecai2002@gmail.com
+
+```markdown
+编者：检查文档中的Google analysis 相关关键词
+```
 
 **第三，养成良好的备份习惯**，这也是为什么代码仓库里有`backup`文件夹的原因，良好的备份习惯将在运营的过程中为你解决一大堆“后悔”。
 
