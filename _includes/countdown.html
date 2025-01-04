@@ -20,7 +20,7 @@
             const minutes = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
             const seconds = Math.floor((diff % (1000 * 60)) / 1000);
 
-            document.getElementById('timer').textContent = \""Victory is just ahead, <b>${days} days<b> to go 🥳 🎉🎉🎉."";
+            document.getElementById('timer').textContent = \""Victory is just ahead, <b>${days} days<b> to go 🎉🎉🎉."";
         }
 
         const intervalId = setInterval(updateCountdown, 1000);
