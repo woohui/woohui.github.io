@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="publications Changes" />
+    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="publications Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/countdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/countdown.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,20 +113,7 @@
       <workItem from="1735992252184" duration="691000" />
       <workItem from="1735997098130" duration="2334000" />
       <workItem from="1735999503066" duration="123000" />
-    </task>
-    <task id="LOCAL-00075" summary="publications Changes">
-      <created>1735527996796</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1735527996796</updated>
-    </task>
-    <task id="LOCAL-00076" summary="publications Changes">
-      <created>1735528110262</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1735528110262</updated>
+      <workItem from="1735999654214" duration="160000" />
     </task>
     <task id="LOCAL-00077" summary="publications Changes">
       <created>1735528217794</created>
@@ -454,7 +444,21 @@
       <option name="project" value="LOCAL" />
       <updated>1735999623419</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="publications Changes">
+      <created>1735999731029</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1735999731029</updated>
+    </task>
+    <task id="LOCAL-00125" summary="publications Changes">
+      <created>1735999768730</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1735999768730</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
