@@ -202,9 +202,9 @@ links:
 
 > 欢迎你把答案发送到本邮箱：lancecai2002@gmail.com
 
-```markdown
-编者：检查文档中的Google analysis 相关关键词
-```
+
+> 编者：检查文档中的 `Google analysis` 相关关键词
+
 
 **第三，养成良好的备份习惯**，这也是为什么代码仓库里有`backup`文件夹的原因，良好的备份习惯将在运营的过程中为你解决一大堆“后悔”。
 
