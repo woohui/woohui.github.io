@@ -4,7 +4,7 @@ permalink: /blogs/web/index.html
 title: web
 ---
 
-## 建站完全指南
+## 极简风Jekyll个人网站搭建指南
 
 > 转载自<a href="https://caihanlin.com/blogs/web/" target="_blank">HANLIN CAI<a>
 
