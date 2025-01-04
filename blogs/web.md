@@ -6,7 +6,7 @@ title: web
 
 ## 建站完全指南
 
-> 转载自[HANLIN CAI](https://caihanlin.com/blogs/web/)
+> 转载自<a href="https://caihanlin.com/blogs/web/" target="_blank">HANLIN CAI<a>
 
 <center>
 <img src = "/blogs/web.assets/github-logo.png">
