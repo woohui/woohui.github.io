@@ -30,4 +30,9 @@ My current research focuses on the practical challenges that **game theory** enc
 - **Dec 20, 2024**：Desk Rejected by AE 😭.
 - Dec 21, 2024: Submit the paper to another marketing journal . Kindly consider it favorably.
 
-<br>
+---
+
+## What to Expect
+<div>
+  {% include countdown.html target_date="2027-06-30T00:00:00" %}
+</div>

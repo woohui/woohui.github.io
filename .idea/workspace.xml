@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="publications Changes" />
+    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="publications Changes">
+      <change afterPath="$PROJECT_DIR$/_includes/countdown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs/academic-websites.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/academic-websites.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,21 +113,7 @@
       <workItem from="1735914944128" duration="151000" />
       <workItem from="1735915186659" duration="51000" />
       <workItem from="1735992252184" duration="691000" />
-      <workItem from="1735997098130" duration="1136000" />
-    </task>
-    <task id="LOCAL-00069" summary="publications Changes">
-      <created>1735527220607</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1735527220607</updated>
-    </task>
-    <task id="LOCAL-00070" summary="publications Changes">
-      <created>1735527365327</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1735527365327</updated>
+      <workItem from="1735997098130" duration="1925000" />
     </task>
     <task id="LOCAL-00071" summary="publications Changes">
       <created>1735527559424</created>
@@ -453,7 +444,21 @@
       <option name="project" value="LOCAL" />
       <updated>1735998166886</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="publications Changes">
+      <created>1735998281605</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1735998281605</updated>
+    </task>
+    <task id="LOCAL-00119" summary="publications Changes">
+      <created>1735998351237</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1735998351237</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
