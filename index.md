@@ -1,35 +1,7 @@
 ---
 layout: page
 ---
-<script>
-    // 优化倒计时逻辑
-    document.addEventListener('DOMContentLoaded', function () {
-        const targetDate = new Date('{{ target_date | default: "2027-06-30T00:00:00" }}');
-        const timerElement = document.getElementById('timer');
-
-        function updateCountdown() {
-            const now = new Date();
-            const diff = targetDate - now;
-
-            if (diff <= 0) {
-                timerElement.textContent = "The countdown is over!";
-                clearInterval(intervalId);
-                return;
-            }
-
-            const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-            timerElement.innerHTML = `Victory is just ahead, <strong>${days} days</strong> to go.`;
-        }
-
-        // 提前显示占位内容，增强用户体验
-        timerElement.textContent = "Loading ...";
-
-        // 定时更新
-        const intervalId = setInterval(updateCountdown, 1000);
-        updateCountdown(); // 即刻执行一次，避免等待首个间隔
-    });
-</script>
-
+{% include countdown.html target_date="2027-06-30T00:00:00" %}
 # About Me
 ---
 <!-- <img src="./images/Life_Photo.JPG" class="floatpic"> -->
@@ -62,7 +34,7 @@ My current research focuses on the practical challenges that **game theory** enc
 
 ## What to Expect
 <div class="countdown">
-    <p id="timer">Calculating...</p>
+    <p id="timer">Loading...</p>
 </div>
 
 
