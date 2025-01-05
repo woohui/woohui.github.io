@@ -11,7 +11,7 @@ title: Blogs
 
 ### 2024
 
-- [建站完全指南](./web)
+- [转载：极简风Jekyll个人网站搭建指南](./web)
 - [关于消费者剩余的刻画](./consumer-surplus)
 
 
