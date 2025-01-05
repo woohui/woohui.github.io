@@ -18,11 +18,8 @@
             timerElement.innerHTML = `Victory is just ahead, <strong>${days} days</strong> to go.`;
         }
 
-        // 提前显示占位内容，增强用户体验
-        timerElement.textContent = "Loading ...";
-
         // 定时更新
-        const intervalId = setInterval(updateCountdown, 1000);
+        const intervalId = setInterval(updateCountdown, 10000);
         updateCountdown(); // 即刻执行一次，避免等待首个间隔
     });
 </script>

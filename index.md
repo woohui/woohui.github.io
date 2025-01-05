@@ -2,6 +2,7 @@
 layout: page
 ---
 {% include countdown.html target_date="2027-06-30T00:00:00" %}
+
 # About Me
 ---
 <!-- <img src="./images/Life_Photo.JPG" class="floatpic"> -->
