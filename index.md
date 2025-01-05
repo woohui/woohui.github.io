@@ -33,6 +33,28 @@ My current research focuses on the practical challenges that **game theory** enc
 ---
 
 ## What to Expect
-<div>
-  {% include countdown.html target_date="2027-06-30T00:00:00" %}
+<div class="countdown">
+        <p id="timer">Loading...</p>
 </div>
+
+<script>
+        document.addEventListener('DOMContentLoaded', function() {
+            function updateCountdown() {
+                const targetDate = new Date('{{ target_date | default: "2027-06-30T00:00:00" }}');
+                const now = new Date();
+                const diff = targetDate - now;
+
+                if (diff <= 0) {
+                    document.getElementById('timer').textContent = "The countdown is over!";
+                    clearInterval(intervalId);
+                    return;
+                }
+
+                const days = Math.floor(diff / (1000 * 60 * 60 * 24));
+                document.getElementById('timer').innerHTML = 'Victory is just ahead, <strong>' + days + ' days</strong> to go 🎉🎉🎉.';
+            }
+
+            const intervalId = setInterval(updateCountdown, 1000);
+            updateCountdown();
+        });
+</script>
