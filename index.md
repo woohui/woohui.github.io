@@ -34,7 +34,6 @@ My current research focuses on the practical challenges that **game theory** enc
 
 ## What to Expect
 <div class="countdown">
-    <h1>Countdown to June 30, 2027</h1>
     <p id="timer">Calculating...</p>
 </div>
 
