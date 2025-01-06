@@ -3,20 +3,7 @@ layout: page
 permalink: /blogs/consumer-surplus
 title:  消费者剩余的刻画
 ---
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
-</script>
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } });
-</script>
-
-<script type="text/x-mathjax-config">
-    MathJax.Hub.Config({tex2jax: {
-             inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-             processEscapes: false
-           }
-         });
-</script>
-<script type="module" src="https://cdn.jsdelivr.net/gh/emaction/frontend.dist@1.0.11/bundle.js"></script>
+{% include Latex-script.html %}
 ## 关于消费者剩余的刻画
 > 有时需要刻画一些新策略对消费者剩余 (consumer-surplus, CS) 的影响，如产品的绿色程度、相应企业的社会责任等。传统经济学中关于 CS 的刻画主要是产品价格。
 <br>![Economic-surpluses.svg](consumer-surplus.assets/Economic-surpluses.svg)
@@ -55,7 +42,3 @@ $$CS = \frac{(w_H - \alpha p - \beta e)(w_H - \alpha p + 3 \beta e)}{2 w_H} $$
 证明完毕.
 
 > 如有错误请与我联系。
-
-
-
-<emoji-reaction></emoji-reaction>

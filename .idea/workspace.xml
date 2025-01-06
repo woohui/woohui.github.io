@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="publications Changes">
-      <change afterPath="$PROJECT_DIR$/emaction.backend" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_includes/Latex-script.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blogs/consumer-surplus.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/consumer-surplus.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emaction.backend/wrangler.toml" beforeDir="false" afterPath="$PROJECT_DIR$/emaction.backend/wrangler.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emaction.backend" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,28 +120,10 @@
       <workItem from="1736046549517" duration="22000" />
       <workItem from="1736046665253" duration="474000" />
       <workItem from="1736047214503" duration="104000" />
-      <workItem from="1736059791561" duration="228000" />
-    </task>
-    <task id="LOCAL-00089" summary="publications Changes">
-      <created>1735558613064</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1735558613065</updated>
-    </task>
-    <task id="LOCAL-00090" summary="publications Changes">
-      <created>1735558843800</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1735558843800</updated>
-    </task>
-    <task id="LOCAL-00091" summary="publications Changes">
-      <created>1735558978873</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1735558978873</updated>
+      <workItem from="1736059791561" duration="2779000" />
+      <workItem from="1736063086025" duration="1703000" />
+      <workItem from="1736064846659" duration="2081000" />
+      <workItem from="1736129454053" duration="236000" />
     </task>
     <task id="LOCAL-00092" summary="publications Changes">
       <created>1735559079203</created>
@@ -466,7 +447,28 @@
       <option name="project" value="LOCAL" />
       <updated>1736047278701</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="publications Changes">
+      <created>1736060026660</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1736060026661</updated>
+    </task>
+    <task id="LOCAL-00139" summary="publications Changes">
+      <created>1736060064644</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1736060064644</updated>
+    </task>
+    <task id="LOCAL-00140" summary="publications Changes">
+      <created>1736060170656</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1736060170656</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
