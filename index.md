@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me, Hui Wu.
+title: About Me
 ---
 {% include countdown.html target_date="2027-06-30T00:00:00" %}
 
