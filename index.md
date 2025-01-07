@@ -6,7 +6,7 @@ title: About Me
 
 # About Me
 ---
-<!-- <img src="./images/Life_Photo.JPG" class="floatpic"> -->
+<!-- <img src="./images/Life_Photo.JPG!min" class="floatpic"> -->
 
 Here is **Hui Wu**.<br>
 
