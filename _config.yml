@@ -25,14 +25,9 @@ owner:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
   # google_plus:
+  address: Wuhan, China
 
 
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify: ""
-
-# Links to include in top navigation
-# For external links add external: true
 links:
   - title: About Me
     url: /
