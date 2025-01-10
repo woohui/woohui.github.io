@@ -7,7 +7,7 @@ url: https://papergot.com
 # Owner/author information
 owner:
   name: Hui Wu
-  avatar: ./ID_Photo.png!min
+  avatar: ./images/logo/xiaoliuya.gif
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: woohui@vip.qq.com
   #cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
@@ -24,8 +24,8 @@ owner:
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
+#  - title: Publications
+#    url: /publications/
 # - title: Hobbies
 #  url: /hobbies/
  # - title: Startups
