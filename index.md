@@ -8,7 +8,7 @@ title: About Me
 ---
 <!-- <img src="./images/Life_Photo.JPG!min" class="floatpic"> -->
 
-Here is **Hui Wu**.<br>
+Here is **Wu Hui**.<br>
 
 I am a PhD student at the College of Economics and Management, Huazhong Agricultural University. Previously, I worked at Guangdong University of Science and Technology.
 
@@ -39,5 +39,9 @@ My current research focuses on the practical challenges that **game theory** enc
     <p id="timer">Loading...</p>
 </div>
 
+## Contact me
+
+- Mail: woohui [at] vip.qq.com
+- Website: [https://wuhui.de](https://wuhui.de)
 
 
