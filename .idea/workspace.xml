@@ -4,6 +4,8 @@
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="publications Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/author-bio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author-bio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +14,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -131,28 +132,7 @@
       <workItem from="1736263890632" duration="64000" />
       <workItem from="1736264119579" duration="130000" />
       <workItem from="1736264397407" duration="74000" />
-      <workItem from="1736483595485" duration="482000" />
-    </task>
-    <task id="LOCAL-00110" summary="publications Changes">
-      <created>1735913832120</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1735913832121</updated>
-    </task>
-    <task id="LOCAL-00111" summary="publications Changes">
-      <created>1735914238657</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1735914238658</updated>
-    </task>
-    <task id="LOCAL-00112" summary="publications Changes">
-      <created>1735914860229</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1735914860229</updated>
+      <workItem from="1736483595485" duration="1018000" />
     </task>
     <task id="LOCAL-00113" summary="publications Changes">
       <created>1735915001677</created>
@@ -476,7 +456,28 @@
       <option name="project" value="LOCAL" />
       <updated>1736264455298</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="publications Changes">
+      <created>1736484083694</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1736484083695</updated>
+    </task>
+    <task id="LOCAL-00160" summary="publications Changes">
+      <created>1736484121764</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1736484121764</updated>
+    </task>
+    <task id="LOCAL-00161" summary="publications Changes">
+      <created>1736484209557</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1736484209557</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
