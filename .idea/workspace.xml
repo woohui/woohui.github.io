@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="publications Changes">
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-    </list>
+    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="publications Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,14 +131,7 @@
       <workItem from="1736492293510" duration="50000" />
       <workItem from="1736492383743" duration="103000" />
       <workItem from="1736599418312" duration="279000" />
-      <workItem from="1736599801559" duration="836000" />
-    </task>
-    <task id="LOCAL-00124" summary="publications Changes">
-      <created>1735999731029</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1735999731029</updated>
+      <workItem from="1736599801559" duration="1271000" />
     </task>
     <task id="LOCAL-00125" summary="publications Changes">
       <created>1735999768730</created>
@@ -478,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736600480137</updated>
     </task>
-    <option name="localTasksCounter" value="173" />
+    <task id="LOCAL-00173" summary="publications Changes">
+      <created>1736600642543</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1736600642543</updated>
+    </task>
+    <option name="localTasksCounter" value="174" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
