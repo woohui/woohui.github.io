@@ -10,7 +10,10 @@ title: About Me
 
 Here is **Wu Hui**.<br>
 
-I am a PhD student at the College of Economics and Management, Huazhong Agricultural University. Previously, I worked at Guangdong University of Science and Technology.
+I am a PhD student at the College of Economics and Management, Huazhong Agricultural University. 
+<div class="countdown">
+    <p id="timer">Loading...</p>
+</div>
 
 ---
 
@@ -34,11 +37,6 @@ My current research focuses on the practical challenges that **game theory** enc
 
 ---
 -->
-
-## What to Expect
-<div class="countdown">
-    <p id="timer">Loading...</p>
-</div>
 
 ## Contact me
 
