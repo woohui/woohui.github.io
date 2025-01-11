@@ -133,21 +133,7 @@
       <workItem from="1736492293510" duration="50000" />
       <workItem from="1736492383743" duration="103000" />
       <workItem from="1736599418312" duration="279000" />
-      <workItem from="1736599801559" duration="460000" />
-    </task>
-    <task id="LOCAL-00122" summary="publications Changes">
-      <created>1735999435343</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1735999435343</updated>
-    </task>
-    <task id="LOCAL-00123" summary="publications Changes">
-      <created>1735999623418</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1735999623419</updated>
+      <workItem from="1736599801559" duration="836000" />
     </task>
     <task id="LOCAL-00124" summary="publications Changes">
       <created>1735999731029</created>
@@ -478,7 +464,21 @@
       <option name="project" value="LOCAL" />
       <updated>1736599866076</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="publications Changes">
+      <created>1736600368024</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1736600368024</updated>
+    </task>
+    <task id="LOCAL-00172" summary="publications Changes">
+      <created>1736600480137</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1736600480137</updated>
+    </task>
+    <option name="localTasksCounter" value="173" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
