@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/consumer-surplus
+permalink: /blogs/CARA
 title:  恒定绝对风险厌恶(CARA)
 ---
 {% include Latex-script.html %}
