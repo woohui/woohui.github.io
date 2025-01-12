@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="publications Changes">
-      <change beforePath="$PROJECT_DIR$/blogs/CARA.md" beforeDir="false" afterPath="$PROJECT_DIR$/blogs/CARA.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,14 +134,7 @@
       <workItem from="1736492383743" duration="103000" />
       <workItem from="1736599418312" duration="279000" />
       <workItem from="1736599801559" duration="1271000" />
-      <workItem from="1736691634944" duration="1730000" />
-    </task>
-    <task id="LOCAL-00133" summary="publications Changes">
-      <created>1736046055918</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1736046055918</updated>
+      <workItem from="1736691634944" duration="2065000" />
     </task>
     <task id="LOCAL-00134" summary="publications Changes">
       <created>1736046223556</created>
@@ -479,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1736693239264</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="publications Changes">
+      <created>1736693546563</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1736693546563</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
