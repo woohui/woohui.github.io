@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /blogs/CARA
-title:  恒定绝对风险厌恶(CARA)
+title:  常数绝对风险厌恶(CARA)
 ---
 {% include Latex-script.html %}
 
 
 
-## 恒定绝对风险厌恶（CARA）的原理
-> 今天阅读了 Balasubramanian et al. (2015)，文中刻画了消费者风险规避时，采用了恒定绝对风险厌恶(Constant Absolute Risk Aversion, CARA)，以下对CARA进行简要介绍
+## 常数绝对风险厌恶（CARA）的原理
+> 今天阅读了 Balasubramanian et al. (2015)，文中刻画了消费者风险规避时，采用了常数绝对风险厌恶(Constant Absolute Risk Aversion, CARA)，以下对CARA进行简要介绍
 
 ### 1. 风险厌恶的定义
 **风险厌恶**：风险厌恶的消费者更倾向于确定的结果，而不是不确定的结果，即使不确定的结果在期望值上可能更高。这种偏好可以通过效用函数来量化。
@@ -54,7 +54,7 @@ $$\pi = \mu - CE = \frac{r \sigma^2}{2}$$
 **保险设计**：在保险设计中，保险公司可以使用 CARA 模型来确定保险产品的价格。通过计算消费者的确定性等价，保险公司可以设计出符合消费者风险偏好的保险产品。
 
 ## 总结
-恒定绝对风险厌恶（CARA）假设消费者的效用函数具有特定的形式，使得风险厌恶程度在**不同财富水平上保持恒定**。通过计算确定性等价和风险溢价，CARA 模型可以帮助我们更好地理解消费者在面对风险时的决策行为。
+常数绝对风险厌恶（CARA）假设消费者的效用函数具有特定的形式，使得风险厌恶程度在**不同财富水平上保持恒定**。通过计算确定性等价和风险溢价，CARA 模型可以帮助我们更好地理解消费者在面对风险时的决策行为。
 
 >**Reference**: <br>
 Balasubramanian, S., Bhattacharya, S., & Krishnan, V. V. (2015). [Pricing information goods: A strategic analysis of the selling and pay-per-use mechanisms](https://doi.org/10.1287/mksc.2014.0894). Marketing Science, 34(2), 218–234. 
