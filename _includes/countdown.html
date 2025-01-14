@@ -15,7 +15,7 @@
             }
 
             const days = Math.floor(diff / (1000 * 60 * 60 * 24));
-            timerElement.innerHTML = `${days}`;
+            timerElement.innerHTML = `<p>Victory is just ahead, <strong>${days} days</strong> to go 🎉🎉🎉.</p>`;
         }
 
         // 定时更新
@@ -23,4 +23,3 @@
         updateCountdown(); // 即刻执行一次，避免等待首个间隔
     });
 </script>
-

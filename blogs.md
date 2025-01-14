@@ -8,7 +8,7 @@ title: Blogs
 
 ### 2025
 - [常用宝藏学术网站](./academic-websites)
-- [常数绝对风险厌恶(CARA)](./CARA)
+- [恒定绝对风险厌恶(CARA)](./CARA)
 
 ### 2024
 
