@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="publications Changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/countdown.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/countdown.html" afterDir="false" />
     </list>
+=======
+    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="publications Changes" />
+>>>>>>> parent of d691df5 (publications Changes)
 =======
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="publications Changes" />
 >>>>>>> parent of d691df5 (publications Changes)
@@ -144,11 +148,14 @@
       <workItem from="1736694271415" duration="38000" />
       <workItem from="1736694399696" duration="244000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1736740383866" duration="125000" />
       <workItem from="1736759950913" duration="273000" />
       <workItem from="1736779840066" duration="105000" />
       <workItem from="1736821908479" duration="489000" />
 =======
+=======
+>>>>>>> parent of d691df5 (publications Changes)
     </task>
     <task id="LOCAL-00140" summary="publications Changes">
       <created>1736060170656</created>
@@ -495,6 +502,7 @@
       <updated>1736694443920</updated>
     </task>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <task id="LOCAL-00189" summary="publications Changes">
       <created>1736740500076</created>
       <option name="number" value="00189" />
@@ -510,6 +518,9 @@
       <updated>1736779916455</updated>
     </task>
     <option name="localTasksCounter" value="191" />
+=======
+    <option name="localTasksCounter" value="189" />
+>>>>>>> parent of d691df5 (publications Changes)
 =======
     <option name="localTasksCounter" value="189" />
 >>>>>>> parent of d691df5 (publications Changes)
