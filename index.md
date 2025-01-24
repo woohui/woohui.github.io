@@ -11,7 +11,7 @@ title: About Me
 Here is **Wu Hui**.<br>
 
 I am a PhD student at the College of Economics and Management, **Huazhong Agricultural University**. There are **<i id="timer">\*\*\*</i>** days remaining.
-{{ Time.now.strftime }}
+<%= Time.now.strftime('%Y-%m-%d %H:%M:%S') %>
 ---
 
 ## Research Interests
