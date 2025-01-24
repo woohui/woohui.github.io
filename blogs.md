@@ -9,15 +9,15 @@ title: Blogs
 
 
 ### 2025
-- [常用宝藏学术网站](./academic-websites)
-- [常数绝对风险厌恶(CARA)](./CARA)
+- [常用宝藏学术网站](./blogs/academic-websites)
+- [常数绝对风险厌恶(CARA)](./blogs/CARA)
 
 
 
 ### 2024
 
-- [转载：极简风Jekyll个人网站搭建指南](./web)
-- [关于消费者剩余的刻画](./consumer-surplus)
+- [转载：极简风Jekyll个人网站搭建指南](./blogs/web)
+- [关于消费者剩余的刻画](./blogs/consumer-surplus)
 
 
 
