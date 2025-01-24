@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+date: <%= Time.now.strftime('%Y-%m-%d %H:%M:%S') %>
 ---
 {% include countdown.html target_date="2027-06-30T00:00:00" %}
 
@@ -11,7 +12,7 @@ title: About Me
 Here is **Wu Hui**.<br>
 
 I am a PhD student at the College of Economics and Management, **Huazhong Agricultural University**. There are **<i id="timer">\*\*\*</i>** days remaining.
-<%= Time.now.strftime('%Y-%m-%d %H:%M:%S') %>
+
 ---
 
 ## Research Interests
