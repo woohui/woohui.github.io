@@ -1,0 +1,236 @@
+<!-- It is not recommended to modify this code, unless you are a Pro-->
+
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+
+<head>
+<!-- It is not recommended to modify this code, unless you are a Pro-->
+<!-- Lastly modified by Hanlin CAI in 2023/04/26 -->
+
+<meta charset="utf-8">
+<title>常数绝对风险厌恶(CARA) &#8211; Wu Hui</title>
+
+
+
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="常数绝对风险厌恶(CARA) &#8211; Wu Hui">
+<meta property="og:description" content="{% include Latex-script.html %}## 常数绝对风险厌恶（CARA）的原理> 今天阅读了 Balasubramanian et al. (2015)，文中刻画了消费者风险规避时，采用了恒定绝对风险厌恶(Co...">
+<meta property="og:url" content="http://localhost:4000/blogs/CARA">
+<meta property="og:site_name" content="Wu Hui">
+
+
+
+<link rel="canonical" href="http://localhost:4000/blogs/CARA">
+
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous" />
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<!--[if (lt IE 9) & (!IEMobile)]>
+<link rel="stylesheet" href="/assets/css/ie.css">
+<![endif]-->
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- Load Modernizr -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js" integrity="sha512-3n19xznO0ubPpSwYCRRBgHh63DrV+bdZfHK52b1esvId4GsfwStQNPJFjeQos2h3JwCmZl0/LgLxSKMAI55hgw==" crossorigin="anonymous"></script>
+
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://localhost:4000/images/fav.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://localhost:4000/images/fav.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/images/fav.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/images/fav.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/images/fav.png">
+
+
+</head>
+
+
+<body class="page" itemscope itemtype="http://schema.org/WebPage">
+
+<!-- [if lt IE 6]><div class="chrome-frame alert alert-info"><strong>Your browser is really old!</strong> <a href="http://browsehappy.com/">Why not upgrade to a different browser</a>  to better enjoy this site?</div><![endif] -->
+
+<!-- It is not recommended to modify this code, unless you are a Pro-->
+<!-- Lastly modified by Hanlin CAI in 2023/01/15 -->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://localhost:4000">Wu Hui</a>
+	</div><!-- /.site-name -->
+  
+	<div class="top-navigation">
+		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+		    <ul>
+		        
+            <li><a href="http://localhost:4000/" >About Me</a></li>
+		        
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+<!-- Lastly modified by Hanlin CAI in 2023/05/01 -->
+
+
+
+<div id="main" role="main"  itemprop="mainContentOfPage">
+  <div class="article-author-top">
+    <img src="http://localhost:4000/images/logo/xiaoliuya.gif" class="bio-photo" alt="Wu Hui bio photo" width="100" height="100"></a>
+
+<!-- <h4>Wu Hui</h4> -->
+
+<p></p>
+
+<p style="text-indent:0;margin-top:1em;"><a href="mailto:woohui@vip.qq.com" target="_blank"><!-- <i class="icon-mail"></i> --> 📮 Email</a></p>
+
+<p style="text-indent:0;margin-top:0.3em">📌 Wuhan, China</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-indent:0;margin-top:0.3em;"><a href="https://www.researchgate.net/profile/wu-hui-33"> 🎓 ResearchGate</a></p>
+
+<p style="text-indent:0;margin-top:0.3em;">🔗 Site: <a href="https://wuhui.de">wuhui.de </a></p>
+
+
+
+
+
+
+  </div>
+  <article itemscope itemtype="http://schema.org/CreativeWork">
+  
+    <div class="article-wrap" itemprop="text">
+      <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        TeX: { equationNumbers: { autoNumber: "all" } },
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            processEscapes: false
+        }
+    });
+</script>
+
+<!-- 自定义 MathJax 样式 -->
+<style>
+  .MathJax {
+    color: black; /* 设置数学公式的统一颜色 */
+  }
+</style>
+
+<h2 id="常数绝对风险厌恶cara的原理">常数绝对风险厌恶（CARA）的原理</h2>
+<blockquote>
+  <p>今天阅读了 Balasubramanian et al. (2015)，文中刻画了消费者风险规避时，采用了恒定绝对风险厌恶(Constant Absolute Risk Aversion, CARA)，以下对CARA进行简要介绍</p>
+</blockquote>
+
+<h3 id="1-风险厌恶的定义">1. 风险厌恶的定义</h3>
+<p><strong>风险厌恶</strong>：风险厌恶的消费者更倾向于确定的结果，而不是不确定的结果，即使不确定的结果在期望值上可能更高。这种偏好可以通过效用函数来量化。</p>
+
+<h3 id="2-效用函数的形式">2. 效用函数的形式</h3>
+<p><strong>CARA 效用函数</strong>：CARA 假设消费者的效用函数具有以下形式：</p>
+
+\[U(z) = 1 - e^{-rz}\]
+
+<p>其中，$z$ 是消费者的收入或支付，$r$ 是绝对风险厌恶系数（系数越大，表示消费者越风险厌恶）。</p>
+
+<h3 id="3-绝对风险厌恶系数">3. 绝对风险厌恶系数</h3>
+<p><strong>绝对风险厌恶系数</strong>：绝对风险厌恶系数 $r$ 衡量了消费者对风险的厌恶程度。具体来说，它表示消费者为了消除单位风险所愿意支付的金额。数学上，绝对风险厌恶系数 $r$ 定义为：</p>
+
+\[r = -\frac{U''(z)}{U'(z)}\]
+
+<p>对于 CARA 效用函数 $U(z) = 1 - e^{-rz}$，其一阶导数和二阶导数分别为： $U’(z) = re^{-rz}$ 和 $U’‘(z) = -r^2 e^{-rz}$。</p>
+
+<p>因此，绝对风险厌恶系数为：</p>
+
+\[r = -\frac{-r^2 e^{-rz}}{re^{-rz}} = r\]
+
+<p>这表明 $r$ 是一个常数，即消费者的绝对风险厌恶程度在不同财富水平上保持恒定。</p>
+
+<h3 id="4-确定性等价和风险溢价">4. 确定性等价和风险溢价</h3>
+<p><strong>确定性等价</strong>：在 CARA 模型中，确定性等价 $CE$ 是一个确定的金额，它能够提供与风险金额相同的效用。具体来说，对于一个风险金额 $z$ 服从分布 $F(z)$，确定性等价 $CE$ 满足：</p>
+
+\[U(CE) = \int U(z) \, dF(z)\]
+
+<p>例如，如果风险金额 $z$ 服从均值为 $\mu$、方差为 $\sigma^2$ 的正态分布，确定性等价 $CE$ 为：</p>
+
+\[CE = \mu - \frac{r \sigma^2}{2}\]
+
+<p><strong>风险溢价</strong>：风险溢价 $\pi$ 是消费者为了消除风险所愿意支付的额外金额，即：</p>
+
+\[\pi = \mu - CE = \frac{r \sigma^2}{2}\]
+
+<p>这表明风险溢价与风险厌恶系数 $r$ 和风险金额的方差 $\sigma^2$ 成正比。</p>
+
+<h3 id="5-应用">5. 应用</h3>
+<p><strong>金融决策</strong>：在金融决策中，CARA 模型可以帮助投资者评估不同投资项目的吸引力。例如，投资者可以计算一个投资项目的确定性等价，以决定是否进行投资。</p>
+
+<p><strong>保险设计</strong>：在保险设计中，保险公司可以使用 CARA 模型来确定保险产品的价格。通过计算消费者的确定性等价，保险公司可以设计出符合消费者风险偏好的保险产品。</p>
+
+<h2 id="总结">总结</h2>
+<p>常数绝对风险厌恶（CARA）假设消费者的效用函数具有特定的形式，使得风险厌恶程度在<strong>不同财富水平上保持恒定</strong>。通过计算确定性等价和风险溢价，CARA 模型可以帮助我们更好地理解消费者在面对风险时的决策行为。</p>
+
+<blockquote>
+  <p><strong>Reference</strong>: <br />
+Balasubramanian, S., Bhattacharya, S., &amp; Krishnan, V. V. (2015). <a href="https://doi.org/10.1287/mksc.2014.0894">Pricing information goods: A strategic analysis of the selling and pay-per-use mechanisms</a>. Marketing Science, 34(2), 218–234.</p>
+</blockquote>
+
+<blockquote>
+  <p>如有错误请与我联系。</p>
+</blockquote>
+
+    </div><!-- /.article-wrap -->
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    <p style="text-indent:0">&copy; 2024-2025 <a href="https://wuhui.de">Wu Hui</a>. Published with <a href="https://pages.github.com/" rel="nofollow">GitHub Pages</a>,
+  powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>,
+  based on the <a href="https://mademistakes.com/" rel="nofollow">Minimal Mistakes</a> theme, accelerated by<a margin-top="10px" href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank"> <img style="vertical-align: middle; height: 30px;" src='https://papergot.com/images/logo/upyun.png'></a>.</p>
+<p style="text-indent:0;margin-top: 0.5rem;">ICP License: <a href="https://beian.miit.gov.cn" target="_blank">鄂ICP备2024088928号</a>.</p>
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost:4000/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://localhost:4000/assets/js/main.min.js"></script>
+
+
+</body>
+</html>
