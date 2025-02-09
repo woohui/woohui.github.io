@@ -26,15 +26,6 @@ My current research focuses on the practical challenges that **game theory** enc
 
 ---
 
-<!-- ## News and Updates
-
-- Dec 19, 2024：The first paper of my doctoral phase has been completed and submitted for publication🥰.
-- **Dec 20, 2024**：Desk Rejected by AE 😭.
-- Dec 21, 2024: Submit the paper to another marketing journal . Kindly consider it favorably.
-
----
--->
-
 ## Contact me
 
 - Mail: woohui [at] vip.qq.com
