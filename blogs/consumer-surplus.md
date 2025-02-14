@@ -16,7 +16,7 @@ title:  消费者剩余的刻画
 
 $$q = n \int_{(\alpha p - \beta e)}^{w_H} f(w)  dw $$
 
-$$= n \frac{w_H - \alpha p - \beta e}{w_H}$$ 
+$$= n \frac{w_H - (\alpha p - \beta e)}{w_H}$$ 
 
 转换为
 
