@@ -23,7 +23,7 @@ $$= n \frac{w_H - (\alpha p - \beta e)}{w_H}$$
 $$p = \frac{w_H}{\alpha} - \frac{w_H}{n \alpha} q + \frac{\beta}{\alpha} e$$
 
 将上述系数 $\{\frac{w_H}{\alpha}, -\frac{w_H}{n\alpha}, \frac{\beta}{\alpha}\}$ 改写为 $\{a, -b, c\}$，即 $\frac{w_H}{\alpha} = a, -\frac{w_H}{n\alpha} = -b, \frac{\beta}{\alpha} = c$，得到
-$p = a - bq + c(e + \mu)$
+$p = a - bq + ce$
 
 故消费者剩余可表示为
 
