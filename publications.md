@@ -6,7 +6,7 @@ title: Publications
 
 ## Papers
 
-- 曹晓刚,**吴惠**,闻卉.[广告效应扰动下的闭环供应链应急与协调决策](http://jmsc.tju.edu.cn/jmsc/article/abstract/20220306).管理科学学报,2022,25(03):107-126. [Download](/assets/Publications/1、广告效应扰动下的闭环供应链应急与协调决策.pdf)
+- 曹晓刚,**吴惠**,闻卉.[广告效应扰动下的闭环供应链应急与协调决策](http://jmsc.tju.edu.cn/jmsc/article/abstract/20220306).管理科学学报,2022,25(03):107-126. [Download](/assets/Publications/JMSC_2022.pdf)
 <br>
 - Cao, X., **Wu, H.**, Chen, K., & Wen, H. (2020). [Coordination strategy of the supply chain with consumer preferences under the “presale and spot-sale” mode](https://onlinelibrary.wiley.com/doi/10.1155/2020/5796018). Mathematical Problems in Engineering, 2020, 1–15. [Download](/assets/Publications/2、Coordination%20Strategy%20of%20the%20Supply%20Chain%20with%20Consumer%20Preferences%20under%20the%20“Presale%20and%20Spot-Sale”%20Mode.pdf)
 <br>
