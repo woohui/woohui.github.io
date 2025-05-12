@@ -27,13 +27,13 @@ $p = a - bq + ce$
 
 故消费者剩余可表示为
 
-$$CS = \int_0^{w_H} \max \{u_i, 0\} f(w) \, dw $$
+$$CS =n \int_0^{w_H} \max \{u_i, 0\} f(w) \, dw $$
 
-$$= \int_{(\alpha p - \beta e)}^{w_H} (w - \alpha p + \beta e) f(w)  dw$$ 
+$$= n \int_{(\alpha p - \beta e)}^{w_H} (w - \alpha p + \beta e) f(w)  dw$$ 
 
 化简为
 
-$$CS = \frac{(w_H + \beta e - \alpha p)^2}{2 w_H} $$
+$$CS = \frac{n (w_H + \beta e - \alpha p)^2}{2 w_H} $$
 
 证明完毕.
 
